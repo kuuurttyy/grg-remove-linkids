@@ -1,0 +1,24 @@
+{
+    "name": "grg-linkid-remover",
+    "title": "GRG linkid Remover",
+    "version": "1.0.0",
+    "description": "Extension that find any linkid attributes and removes them. Makes editing emails taken from EMP a bit quicker.",
+    "homepage": "",
+    "author": "Kurt Stubbings",
+    "license": "MIT",
+    "categories":"snippets",
+    "keywords": [
+        "GRG",
+        "EMP",
+        "email",
+		"linkid",
+        "remover"
+    ],
+    "files": [
+        "main.js",
+        "README.md"
+    ],
+    "engines": {
+        "brackets": ">=0.30.0"
+    }
+}
